@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiniChallenge_NavigationComponent</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment_3">Fragment 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_4">Fragment 4</string>
+    <string name="first_fragment_appears">First Fragment Appears</string>
+    <string name="second_fragment_appears">Second Fragment Appears</string>
+    <string name="third_fragment_appears">Third Fragment Appears</string>
+    <string name="fourth_fragment_appears">Fourth Fragment Appears</string>
+</resources>
